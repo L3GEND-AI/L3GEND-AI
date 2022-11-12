@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L3GEND-AI
 - 👀 I’m interested in Big Brain Moves
-- 🌱 I’m currently learning C#, TypeScript, Python
+- 🌱 I’m currently learning Java, Python
 - 💞️ I’m looking to collaborate on - null
 - 📫 How to reach me. If you interested you can contact me by gmail - developerai.main@gmail.com
 
