@@ -1,4 +1,6 @@
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=L3GEND-AI)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3GEND-AI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=L3GEND-AI)](https://git.io/streak-stats)
 
 
 
