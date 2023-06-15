@@ -4,7 +4,7 @@
 
 ____
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=L3GEND-AI&theme=dark&hide_border=true&locale=ru&card_width=600&background=60%2C000000%2C2D929C&fire=34FFAD&ring=388E7F)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=L3GEND-AI&theme=dark&hide_border=true&locale=ru&card_width=900&background=60%2C000000%2C2D929C&fire=34FFAD&ring=388E7F)](https://git.io/streak-stats)
 
 
 
