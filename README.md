@@ -4,6 +4,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=L3GEND-AI&theme=dark&hide_border=true&locale=ru&card_width=1100&background=60%2C000000%2C2D929C&fire=34FFAD&ring=388E7F)](https://git.io/streak-stats)
 
+## Статы :sunglasses:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3GEND-AI&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
