@@ -6,19 +6,16 @@
 
 ## Статы :sunglasses:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3GEND-AI&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3GEND-AI&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Кружочки :innocent:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L3GEND-AI&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L3GEND-AI&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L3GEND-AI&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L3GEND-AI&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L3GEND-AI&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=L3GEND-AI&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=L3GEND-AI&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=L3GEND-AI&theme=2077)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=L3GEND-AI&theme=2077)
 
 ![](https://komarev.com/ghpvc/?username=L3GEND-AI)
 
